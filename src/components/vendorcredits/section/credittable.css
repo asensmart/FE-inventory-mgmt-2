@@ -1,0 +1,13 @@
+.f_button{
+    
+    background: #6366f1;
+    color : #fff;
+    padding : 8px 20px 8px 20px;
+    border: 1px solid #6366f1;
+    border-radius: '5px';
+    font-size: '14px';
+    font-family: 'inherit';
+    transition: all .5s;
+    cursor : pointer;
+    outline : 0;
+}
